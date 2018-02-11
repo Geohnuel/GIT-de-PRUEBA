@@ -1,2 +1,4 @@
 Pagina web 2
 
+esta pagina web debe de tener la caracteristica de un buscador, un logo, anclas para las paginas secundarias y tambien necesitamos tener en la pagina principal la informacion completa de lo que la empresa representa ubicando esta inforamcion en el footer 
+
