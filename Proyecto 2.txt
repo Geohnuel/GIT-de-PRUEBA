@@ -1,4 +1,4 @@
 Pagina web 2
 
-esta pagina web debe de tener la caracteristica de un buscador, una imagen inicial de fondo de la pagina, un foro, contacto por email y informacion de direccion y telefono y con el buscador el usuario va identificar cual es el servicio que anda buscando 
+esta pagina web debe de tener la caracteristica de un buscador, una imagen inicial de fondo de la pagina, un foro, contacto por email y informacion de direccion y telefono y con el buscador el usuario va identificar cual es el servicio que anda buscando y asi cambiamos el commit
 
